@@ -11,8 +11,7 @@
     "LA Sweet Spot%": 37.6,
     "Barrel%": 0.4,
     "Whiff%": 8.5,
-    "Swing%": 36.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 36.0
   },
   {
     "player_name": "Langeliers, Shea",
@@ -26,8 +25,7 @@
     "LA Sweet Spot%": 37.2,
     "Barrel%": 14.6,
     "Whiff%": 27.3,
-    "Swing%": 50.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.4
   },
   {
     "player_name": "Harper, Bryce",
@@ -41,8 +39,7 @@
     "LA Sweet Spot%": 36.9,
     "Barrel%": 11.8,
     "Whiff%": 30.8,
-    "Swing%": 50.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.8
   },
   {
     "player_name": "Dingler, Dillon",
@@ -56,23 +53,21 @@
     "LA Sweet Spot%": 41.3,
     "Barrel%": 11.8,
     "Whiff%": 21.8,
-    "Swing%": 48.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.6
   },
   {
     "player_name": "Clement, Ernie",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.049,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.748,
     "Bat Speed": 67.6,
     "Ideal Attack Angle%": 63.4,
     "LA Sweet Spot%": 33.5,
     "Barrel%": 2.2,
     "Whiff%": 16.1,
-    "Swing%": 57.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 57.6
   },
   {
     "player_name": "Gonzales, Nick",
@@ -86,8 +81,7 @@
     "LA Sweet Spot%": 33.1,
     "Barrel%": 2.7,
     "Whiff%": 23.9,
-    "Swing%": 53.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 53.0
   },
   {
     "player_name": "Dubón, Mauricio",
@@ -101,8 +95,7 @@
     "LA Sweet Spot%": 36.8,
     "Barrel%": 4.7,
     "Whiff%": 16.7,
-    "Swing%": 51.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.5
   },
   {
     "player_name": "Muncy, Max",
@@ -116,8 +109,7 @@
     "LA Sweet Spot%": 34.8,
     "Barrel%": 13.8,
     "Whiff%": 27.6,
-    "Swing%": 44.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.1
   },
   {
     "player_name": "Varsho, Daulton",
@@ -131,8 +123,7 @@
     "LA Sweet Spot%": 34.9,
     "Barrel%": 6.2,
     "Whiff%": 21.2,
-    "Swing%": 52.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 52.8
   },
   {
     "player_name": "Manzardo, Kyle",
@@ -146,8 +137,7 @@
     "LA Sweet Spot%": 32.5,
     "Barrel%": 10.8,
     "Whiff%": 30.7,
-    "Swing%": 45.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.9
   },
   {
     "player_name": "Karros, Kyle",
@@ -161,8 +151,7 @@
     "LA Sweet Spot%": 41.3,
     "Barrel%": 8.5,
     "Whiff%": 24.7,
-    "Swing%": 44.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.1
   },
   {
     "player_name": "Wetherholt, JJ",
@@ -176,8 +165,7 @@
     "LA Sweet Spot%": 36.9,
     "Barrel%": 7.2,
     "Whiff%": 20.1,
-    "Swing%": 43.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.7
   },
   {
     "player_name": "Walker, Christian",
@@ -191,8 +179,7 @@
     "LA Sweet Spot%": 31.6,
     "Barrel%": 10.3,
     "Whiff%": 28.8,
-    "Swing%": 49.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.8
   },
   {
     "player_name": "Jensen, Carter",
@@ -206,8 +193,7 @@
     "LA Sweet Spot%": 32.7,
     "Barrel%": 9.2,
     "Whiff%": 29.9,
-    "Swing%": 44.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.1
   },
   {
     "player_name": "Walker, Jordan",
@@ -221,8 +207,7 @@
     "LA Sweet Spot%": 35.6,
     "Barrel%": 14.6,
     "Whiff%": 31.1,
-    "Swing%": 51.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.8
   },
   {
     "player_name": "Marte, Ketel",
@@ -236,8 +221,7 @@
     "LA Sweet Spot%": 33.8,
     "Barrel%": 11.1,
     "Whiff%": 20.3,
-    "Swing%": 48.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.2
   },
   {
     "player_name": "Burleson, Alec",
@@ -251,23 +235,21 @@
     "LA Sweet Spot%": 33.1,
     "Barrel%": 11.0,
     "Whiff%": 20.9,
-    "Swing%": 51.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.5
   },
   {
     "player_name": "Lee, Brooks",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.043,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.731,
     "Bat Speed": 70.2,
     "Ideal Attack Angle%": 56.4,
     "LA Sweet Spot%": 33.0,
     "Barrel%": 4.0,
     "Whiff%": 21.0,
-    "Swing%": 52.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 52.2
   },
   {
     "player_name": "Kurtz, Nick",
@@ -281,8 +263,7 @@
     "LA Sweet Spot%": 38.7,
     "Barrel%": 18.1,
     "Whiff%": 36.8,
-    "Swing%": 42.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.8
   },
   {
     "player_name": "Adell, Jo",
@@ -296,8 +277,7 @@
     "LA Sweet Spot%": 33.5,
     "Barrel%": 8.7,
     "Whiff%": 26.4,
-    "Swing%": 55.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 55.4
   },
   {
     "player_name": "Hoerner, Nico",
@@ -311,8 +291,7 @@
     "LA Sweet Spot%": 35.7,
     "Barrel%": 0.9,
     "Whiff%": 11.4,
-    "Swing%": 44.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.0
   },
   {
     "player_name": "Perdomo, Geraldo",
@@ -326,8 +305,7 @@
     "LA Sweet Spot%": 33.7,
     "Barrel%": 3.3,
     "Whiff%": 12.2,
-    "Swing%": 39.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 39.8
   },
   {
     "player_name": "Duran, Jarren",
@@ -341,8 +319,7 @@
     "LA Sweet Spot%": 32.3,
     "Barrel%": 11.3,
     "Whiff%": 35.4,
-    "Swing%": 49.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.6
   },
   {
     "player_name": "Marsh, Brandon",
@@ -356,8 +333,7 @@
     "LA Sweet Spot%": 45.2,
     "Barrel%": 9.6,
     "Whiff%": 25.8,
-    "Swing%": 53.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 53.5
   },
   {
     "player_name": "Neto, Zach",
@@ -371,8 +347,7 @@
     "LA Sweet Spot%": 34.3,
     "Barrel%": 13.5,
     "Whiff%": 32.2,
-    "Swing%": 50.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.7
   },
   {
     "player_name": "Baty, Brett",
@@ -386,23 +361,21 @@
     "LA Sweet Spot%": 36.0,
     "Barrel%": 8.1,
     "Whiff%": 28.9,
-    "Swing%": 47.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.9
   },
   {
     "player_name": "Rumfield, TJ",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.054,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.856,
     "Bat Speed": 68.9,
     "Ideal Attack Angle%": 46.4,
     "LA Sweet Spot%": 37.3,
     "Barrel%": 5.5,
     "Whiff%": 20.6,
-    "Swing%": 49.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.8
   },
   {
     "player_name": "Stowers, Kyle",
@@ -416,8 +389,7 @@
     "LA Sweet Spot%": 35.5,
     "Barrel%": 12.4,
     "Whiff%": 35.6,
-    "Swing%": 52.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 52.7
   },
   {
     "player_name": "O'Hearn, Ryan",
@@ -431,8 +403,7 @@
     "LA Sweet Spot%": 35.4,
     "Barrel%": 7.9,
     "Whiff%": 21.5,
-    "Swing%": 46.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.7
   },
   {
     "player_name": "DeLauter, Chase",
@@ -446,8 +417,7 @@
     "LA Sweet Spot%": 34.1,
     "Barrel%": 5.7,
     "Whiff%": 15.7,
-    "Swing%": 43.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.3
   },
   {
     "player_name": "Turang, Brice",
@@ -461,8 +431,7 @@
     "LA Sweet Spot%": 38.2,
     "Barrel%": 8.1,
     "Whiff%": 21.8,
-    "Swing%": 42.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.6
   },
   {
     "player_name": "Crow-Armstrong, Pete",
@@ -476,8 +445,7 @@
     "LA Sweet Spot%": 36.7,
     "Barrel%": 10.9,
     "Whiff%": 28.5,
-    "Swing%": 50.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.6
   },
   {
     "player_name": "Clemens, Kody",
@@ -491,8 +459,7 @@
     "LA Sweet Spot%": 36.0,
     "Barrel%": 13.2,
     "Whiff%": 25.4,
-    "Swing%": 49.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.2
   },
   {
     "player_name": "Bauers, Jake",
@@ -506,8 +473,7 @@
     "LA Sweet Spot%": 36.1,
     "Barrel%": 13.5,
     "Whiff%": 26.8,
-    "Swing%": 41.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 41.3
   },
   {
     "player_name": "Soto, Juan",
@@ -521,8 +487,7 @@
     "LA Sweet Spot%": 31.9,
     "Barrel%": 15.2,
     "Whiff%": 19.3,
-    "Swing%": 39.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 39.0
   },
   {
     "player_name": "Chisholm Jr., Jazz",
@@ -536,8 +501,7 @@
     "LA Sweet Spot%": 27.8,
     "Barrel%": 8.7,
     "Whiff%": 31.4,
-    "Swing%": 44.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.3
   },
   {
     "player_name": "Montgomery, Colson",
@@ -551,8 +515,7 @@
     "LA Sweet Spot%": 35.0,
     "Barrel%": 14.1,
     "Whiff%": 36.9,
-    "Swing%": 52.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 52.6
   },
   {
     "player_name": "Olson, Matt",
@@ -566,8 +529,7 @@
     "LA Sweet Spot%": 31.3,
     "Barrel%": 14.2,
     "Whiff%": 24.1,
-    "Swing%": 45.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.6
   },
   {
     "player_name": "Lowe, Brandon",
@@ -581,8 +543,7 @@
     "LA Sweet Spot%": 35.7,
     "Barrel%": 12.4,
     "Whiff%": 34.6,
-    "Swing%": 50.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.6
   },
   {
     "player_name": "Buxton, Byron",
@@ -596,8 +557,7 @@
     "LA Sweet Spot%": 32.9,
     "Barrel%": 18.7,
     "Whiff%": 30.9,
-    "Swing%": 52.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 52.7
   },
   {
     "player_name": "Riley, Austin",
@@ -611,8 +571,7 @@
     "LA Sweet Spot%": 30.7,
     "Barrel%": 10.2,
     "Whiff%": 32.6,
-    "Swing%": 47.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.8
   },
   {
     "player_name": "Alonso, Pete",
@@ -626,8 +585,7 @@
     "LA Sweet Spot%": 33.7,
     "Barrel%": 12.5,
     "Whiff%": 27.5,
-    "Swing%": 44.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.0
   },
   {
     "player_name": "Schmitt, Casey",
@@ -641,8 +599,7 @@
     "LA Sweet Spot%": 40.7,
     "Barrel%": 12.5,
     "Whiff%": 21.8,
-    "Swing%": 54.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 54.8
   },
   {
     "player_name": "Collins, Isaac",
@@ -656,8 +613,7 @@
     "LA Sweet Spot%": 31.3,
     "Barrel%": 5.7,
     "Whiff%": 21.8,
-    "Swing%": 39.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 39.7
   },
   {
     "player_name": "Freeman, Freddie",
@@ -671,8 +627,7 @@
     "LA Sweet Spot%": 36.3,
     "Barrel%": 10.9,
     "Whiff%": 21.1,
-    "Swing%": 50.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.0
   },
   {
     "player_name": "Rice, Ben",
@@ -686,8 +641,7 @@
     "LA Sweet Spot%": 39.0,
     "Barrel%": 14.9,
     "Whiff%": 24.7,
-    "Swing%": 43.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.3
   },
   {
     "player_name": "Carroll, Corbin",
@@ -701,8 +655,7 @@
     "LA Sweet Spot%": 29.4,
     "Barrel%": 11.5,
     "Whiff%": 29.1,
-    "Swing%": 45.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.9
   },
   {
     "player_name": "Turner, Trea",
@@ -716,8 +669,7 @@
     "LA Sweet Spot%": 32.4,
     "Barrel%": 6.3,
     "Whiff%": 27.4,
-    "Swing%": 51.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.4
   },
   {
     "player_name": "Okamoto, Kazuma",
@@ -731,8 +683,7 @@
     "LA Sweet Spot%": 33.2,
     "Barrel%": 14.3,
     "Whiff%": 33.6,
-    "Swing%": 45.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.9
   },
   {
     "player_name": "Young, Cole",
@@ -746,8 +697,7 @@
     "LA Sweet Spot%": 35.2,
     "Barrel%": 5.1,
     "Whiff%": 20.0,
-    "Swing%": 48.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.2
   },
   {
     "player_name": "Bichette, Bo",
@@ -761,8 +711,7 @@
     "LA Sweet Spot%": 36.2,
     "Barrel%": 7.1,
     "Whiff%": 18.9,
-    "Swing%": 53.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 53.3
   },
   {
     "player_name": "Contreras, William",
@@ -776,8 +725,7 @@
     "LA Sweet Spot%": 30.7,
     "Barrel%": 7.2,
     "Whiff%": 18.9,
-    "Swing%": 47.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.0
   },
   {
     "player_name": "Aranda, Jonathan",
@@ -791,8 +739,7 @@
     "LA Sweet Spot%": 38.3,
     "Barrel%": 10.5,
     "Whiff%": 21.9,
-    "Swing%": 44.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.9
   },
   {
     "player_name": "Durbin, Caleb",
@@ -806,8 +753,7 @@
     "LA Sweet Spot%": 28.7,
     "Barrel%": 3.0,
     "Whiff%": 15.8,
-    "Swing%": 46.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.3
   },
   {
     "player_name": "Vargas, Miguel",
@@ -821,8 +767,7 @@
     "LA Sweet Spot%": 40.7,
     "Barrel%": 14.6,
     "Whiff%": 19.9,
-    "Swing%": 44.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.3
   },
   {
     "player_name": "Simpson, Chandler",
@@ -836,8 +781,7 @@
     "LA Sweet Spot%": 25.7,
     "Barrel%": 0.0,
     "Whiff%": 10.5,
-    "Swing%": 46.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.8
   },
   {
     "player_name": "Lile, Daylen",
@@ -851,8 +795,7 @@
     "LA Sweet Spot%": 36.4,
     "Barrel%": 7.4,
     "Whiff%": 21.9,
-    "Swing%": 55.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 55.6
   },
   {
     "player_name": "Antonacci, Sam",
@@ -866,8 +809,7 @@
     "LA Sweet Spot%": 39.8,
     "Barrel%": 6.7,
     "Whiff%": 16.0,
-    "Swing%": 42.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.1
   },
   {
     "player_name": "Garcia, Maikel",
@@ -881,8 +823,7 @@
     "LA Sweet Spot%": 32.9,
     "Barrel%": 4.9,
     "Whiff%": 14.2,
-    "Swing%": 39.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 39.2
   },
   {
     "player_name": "Reynolds, Bryan",
@@ -896,8 +837,7 @@
     "LA Sweet Spot%": 36.4,
     "Barrel%": 10.3,
     "Whiff%": 28.9,
-    "Swing%": 44.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.9
   },
   {
     "player_name": "De La Cruz, Elly",
@@ -911,8 +851,7 @@
     "LA Sweet Spot%": 36.2,
     "Barrel%": 15.3,
     "Whiff%": 29.3,
-    "Swing%": 41.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 41.4
   },
   {
     "player_name": "García Jr., Luis",
@@ -926,23 +865,21 @@
     "LA Sweet Spot%": 34.4,
     "Barrel%": 10.7,
     "Whiff%": 19.0,
-    "Swing%": 53.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 53.4
   },
   {
     "player_name": "Hicks, Liam",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.046,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.817,
     "Bat Speed": 68.5,
     "Ideal Attack Angle%": 52.1,
     "LA Sweet Spot%": 25.8,
     "Barrel%": 3.7,
     "Whiff%": 10.4,
-    "Swing%": 41.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 41.7
   },
   {
     "player_name": "Greene, Riley",
@@ -956,38 +893,35 @@
     "LA Sweet Spot%": 37.9,
     "Barrel%": 13.6,
     "Whiff%": 29.9,
-    "Swing%": 45.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.7
   },
   {
     "player_name": "Rafaela, Ceddanne",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.05,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.768,
     "Bat Speed": 69.9,
     "Ideal Attack Angle%": 50.9,
     "LA Sweet Spot%": 36.0,
     "Barrel%": 5.0,
     "Whiff%": 24.3,
-    "Swing%": 54.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 54.5
   },
   {
     "player_name": "Smith, Cam",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": -0.042,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.67,
     "Bat Speed": 77.3,
     "Ideal Attack Angle%": 46.4,
     "LA Sweet Spot%": 31.6,
     "Barrel%": 11.8,
     "Whiff%": 28.8,
-    "Swing%": 47.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.1
   },
   {
     "player_name": "Henderson, Gunnar",
@@ -1001,8 +935,7 @@
     "LA Sweet Spot%": 28.9,
     "Barrel%": 7.2,
     "Whiff%": 23.2,
-    "Swing%": 48.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.9
   },
   {
     "player_name": "Harris II, Michael",
@@ -1016,8 +949,7 @@
     "LA Sweet Spot%": 30.3,
     "Barrel%": 13.0,
     "Whiff%": 26.5,
-    "Swing%": 55.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 55.2
   },
   {
     "player_name": "Torkelson, Spencer",
@@ -1031,23 +963,21 @@
     "LA Sweet Spot%": 46.9,
     "Barrel%": 14.4,
     "Whiff%": 30.8,
-    "Swing%": 42.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.7
   },
   {
     "player_name": "McCarthy, Jake",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.049,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.848,
     "Bat Speed": 71.1,
     "Ideal Attack Angle%": 49.0,
     "LA Sweet Spot%": 37.7,
     "Barrel%": 5.9,
     "Whiff%": 22.7,
-    "Swing%": 55.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 55.7
   },
   {
     "player_name": "Ramírez, José",
@@ -1061,8 +991,7 @@
     "LA Sweet Spot%": 36.6,
     "Barrel%": 6.6,
     "Whiff%": 17.3,
-    "Swing%": 46.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.7
   },
   {
     "player_name": "Wood, James",
@@ -1076,8 +1005,7 @@
     "LA Sweet Spot%": 42.7,
     "Barrel%": 22.8,
     "Whiff%": 31.1,
-    "Swing%": 38.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 38.0
   },
   {
     "player_name": "Horwitz, Spencer",
@@ -1091,8 +1019,7 @@
     "LA Sweet Spot%": 27.6,
     "Barrel%": 8.6,
     "Whiff%": 15.2,
-    "Swing%": 40.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 40.5
   },
   {
     "player_name": "Caminero, Junior",
@@ -1106,8 +1033,7 @@
     "LA Sweet Spot%": 27.3,
     "Barrel%": 13.1,
     "Whiff%": 22.6,
-    "Swing%": 42.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.2
   },
   {
     "player_name": "Nuñez, Nasim",
@@ -1121,8 +1047,7 @@
     "LA Sweet Spot%": 32.3,
     "Barrel%": 0.5,
     "Whiff%": 22.9,
-    "Swing%": 47.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.4
   },
   {
     "player_name": "Ward, Taylor",
@@ -1136,8 +1061,7 @@
     "LA Sweet Spot%": 37.0,
     "Barrel%": 5.8,
     "Whiff%": 19.4,
-    "Swing%": 34.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 34.7
   },
   {
     "player_name": "Grisham, Trent",
@@ -1151,8 +1075,7 @@
     "LA Sweet Spot%": 34.2,
     "Barrel%": 10.9,
     "Whiff%": 16.6,
-    "Swing%": 37.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 37.5
   },
   {
     "player_name": "Suzuki, Seiya",
@@ -1166,23 +1089,21 @@
     "LA Sweet Spot%": 37.7,
     "Barrel%": 9.7,
     "Whiff%": 26.0,
-    "Swing%": 41.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 41.5
   },
   {
     "player_name": "Semien, Marcus",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": -0.045,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.612,
     "Bat Speed": 68.7,
     "Ideal Attack Angle%": 59.9,
     "LA Sweet Spot%": 37.6,
     "Barrel%": 8.0,
     "Whiff%": 23.6,
-    "Swing%": 51.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.1
   },
   {
     "player_name": "Jung, Josh",
@@ -1196,8 +1117,7 @@
     "LA Sweet Spot%": 40.2,
     "Barrel%": 6.1,
     "Whiff%": 18.5,
-    "Swing%": 46.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.2
   },
   {
     "player_name": "Mullins, Cedric",
@@ -1211,8 +1131,7 @@
     "LA Sweet Spot%": 27.8,
     "Barrel%": 3.8,
     "Whiff%": 22.4,
-    "Swing%": 50.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.0
   },
   {
     "player_name": "Contreras, Willson",
@@ -1226,8 +1145,7 @@
     "LA Sweet Spot%": 32.0,
     "Barrel%": 14.3,
     "Whiff%": 30.0,
-    "Swing%": 48.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.9
   },
   {
     "player_name": "Bell, Josh",
@@ -1241,8 +1159,7 @@
     "LA Sweet Spot%": 34.3,
     "Barrel%": 11.0,
     "Whiff%": 24.9,
-    "Swing%": 51.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.2
   },
   {
     "player_name": "Tucker, Kyle",
@@ -1256,8 +1173,7 @@
     "LA Sweet Spot%": 34.6,
     "Barrel%": 5.3,
     "Whiff%": 23.2,
-    "Swing%": 48.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.4
   },
   {
     "player_name": "Witt Jr., Bobby",
@@ -1271,8 +1187,7 @@
     "LA Sweet Spot%": 38.2,
     "Barrel%": 12.5,
     "Whiff%": 24.2,
-    "Swing%": 47.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.8
   },
   {
     "player_name": "Johnston, Troy",
@@ -1286,8 +1201,7 @@
     "LA Sweet Spot%": 41.0,
     "Barrel%": 2.3,
     "Whiff%": 22.8,
-    "Swing%": 51.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.2
   },
   {
     "player_name": "McGonigle, Kevin",
@@ -1301,8 +1215,7 @@
     "LA Sweet Spot%": 36.3,
     "Barrel%": 7.8,
     "Whiff%": 15.4,
-    "Swing%": 42.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.0
   },
   {
     "player_name": "Chapman, Matt",
@@ -1316,8 +1229,7 @@
     "LA Sweet Spot%": 25.3,
     "Barrel%": 6.6,
     "Whiff%": 23.1,
-    "Swing%": 44.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.5
   },
   {
     "player_name": "Guerrero Jr., Vladimir",
@@ -1331,8 +1243,7 @@
     "LA Sweet Spot%": 29.8,
     "Barrel%": 7.0,
     "Whiff%": 19.7,
-    "Swing%": 47.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.8
   },
   {
     "player_name": "Adames, Willy",
@@ -1346,8 +1257,7 @@
     "LA Sweet Spot%": 38.3,
     "Barrel%": 9.2,
     "Whiff%": 29.4,
-    "Swing%": 48.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.3
   },
   {
     "player_name": "Busch, Michael",
@@ -1361,8 +1271,7 @@
     "LA Sweet Spot%": 33.1,
     "Barrel%": 10.5,
     "Whiff%": 25.4,
-    "Swing%": 41.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 41.8
   },
   {
     "player_name": "Caglianone, Jac",
@@ -1376,8 +1285,7 @@
     "LA Sweet Spot%": 36.2,
     "Barrel%": 15.5,
     "Whiff%": 31.3,
-    "Swing%": 51.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.6
   },
   {
     "player_name": "Abreu, Wilyer",
@@ -1391,8 +1299,7 @@
     "LA Sweet Spot%": 35.1,
     "Barrel%": 11.2,
     "Whiff%": 23.6,
-    "Swing%": 49.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.7
   },
   {
     "player_name": "Ohtani, Shohei",
@@ -1406,8 +1313,7 @@
     "LA Sweet Spot%": 39.1,
     "Barrel%": 16.5,
     "Whiff%": 28.5,
-    "Swing%": 44.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.0
   },
   {
     "player_name": "Machado, Manny",
@@ -1421,8 +1327,7 @@
     "LA Sweet Spot%": 31.5,
     "Barrel%": 10.9,
     "Whiff%": 26.9,
-    "Swing%": 47.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.8
   },
   {
     "player_name": "Bellinger, Cody",
@@ -1436,8 +1341,7 @@
     "LA Sweet Spot%": 39.1,
     "Barrel%": 6.8,
     "Whiff%": 20.1,
-    "Swing%": 45.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.3
   },
   {
     "player_name": "Albies, Ozzie",
@@ -1451,8 +1355,7 @@
     "LA Sweet Spot%": 34.3,
     "Barrel%": 4.2,
     "Whiff%": 20.3,
-    "Swing%": 55.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 55.6
   },
   {
     "player_name": "Vargas, Ildemaro",
@@ -1466,8 +1369,7 @@
     "LA Sweet Spot%": 30.2,
     "Barrel%": 3.7,
     "Whiff%": 14.1,
-    "Swing%": 49.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.6
   },
   {
     "player_name": "Bregman, Alex",
@@ -1481,8 +1383,7 @@
     "LA Sweet Spot%": 32.1,
     "Barrel%": 4.3,
     "Whiff%": 16.3,
-    "Swing%": 40.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 40.4
   },
   {
     "player_name": "Keaschall, Luke",
@@ -1496,8 +1397,7 @@
     "LA Sweet Spot%": 36.0,
     "Barrel%": 3.2,
     "Whiff%": 16.8,
-    "Swing%": 41.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 41.6
   },
   {
     "player_name": "Stewart, Sal",
@@ -1511,8 +1411,7 @@
     "LA Sweet Spot%": 34.3,
     "Barrel%": 14.8,
     "Whiff%": 27.5,
-    "Swing%": 47.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.0
   },
   {
     "player_name": "Tatis Jr., Fernando",
@@ -1526,8 +1425,7 @@
     "LA Sweet Spot%": 31.1,
     "Barrel%": 11.0,
     "Whiff%": 28.5,
-    "Swing%": 47.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.7
   },
   {
     "player_name": "Díaz, Yandy",
@@ -1541,8 +1439,7 @@
     "LA Sweet Spot%": 29.2,
     "Barrel%": 6.8,
     "Whiff%": 14.9,
-    "Swing%": 46.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.0
   },
   {
     "player_name": "Paredes, Isaac",
@@ -1556,8 +1453,7 @@
     "LA Sweet Spot%": 37.9,
     "Barrel%": 6.1,
     "Whiff%": 16.7,
-    "Swing%": 44.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.1
   },
   {
     "player_name": "Goodman, Hunter",
@@ -1571,8 +1467,7 @@
     "LA Sweet Spot%": 33.6,
     "Barrel%": 16.7,
     "Whiff%": 34.7,
-    "Swing%": 54.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 54.7
   },
   {
     "player_name": "Pasquantino, Vinnie",
@@ -1586,8 +1481,7 @@
     "LA Sweet Spot%": 37.2,
     "Barrel%": 7.3,
     "Whiff%": 15.8,
-    "Swing%": 45.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.0
   },
   {
     "player_name": "Arozarena, Randy",
@@ -1601,8 +1495,7 @@
     "LA Sweet Spot%": 38.2,
     "Barrel%": 8.0,
     "Whiff%": 27.6,
-    "Swing%": 47.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.1
   },
   {
     "player_name": "Benge, Carson",
@@ -1616,8 +1509,7 @@
     "LA Sweet Spot%": 40.5,
     "Barrel%": 8.0,
     "Whiff%": 20.9,
-    "Swing%": 44.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.9
   },
   {
     "player_name": "Happ, Ian",
@@ -1631,8 +1523,7 @@
     "LA Sweet Spot%": 33.0,
     "Barrel%": 12.7,
     "Whiff%": 32.2,
-    "Swing%": 44.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.6
   },
   {
     "player_name": "Frelick, Sal",
@@ -1646,8 +1537,7 @@
     "LA Sweet Spot%": 28.1,
     "Barrel%": 2.1,
     "Whiff%": 10.8,
-    "Swing%": 42.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.6
   },
   {
     "player_name": "Lopez, Otto",
@@ -1661,8 +1551,7 @@
     "LA Sweet Spot%": 31.7,
     "Barrel%": 7.2,
     "Whiff%": 20.2,
-    "Swing%": 47.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.2
   },
   {
     "player_name": "Edwards, Xavier",
@@ -1676,8 +1565,7 @@
     "LA Sweet Spot%": 38.3,
     "Barrel%": 4.7,
     "Whiff%": 14.7,
-    "Swing%": 42.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.0
   },
   {
     "player_name": "Bohm, Alec",
@@ -1691,8 +1579,7 @@
     "LA Sweet Spot%": 33.7,
     "Barrel%": 5.0,
     "Whiff%": 16.8,
-    "Swing%": 45.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.4
   },
   {
     "player_name": "Merrill, Jackson",
@@ -1706,8 +1593,7 @@
     "LA Sweet Spot%": 37.1,
     "Barrel%": 9.4,
     "Whiff%": 27.2,
-    "Swing%": 55.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 55.3
   },
   {
     "player_name": "Marsee, Jakob",
@@ -1721,23 +1607,21 @@
     "LA Sweet Spot%": 29.0,
     "Barrel%": 3.4,
     "Whiff%": 19.2,
-    "Swing%": 39.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 39.9
   },
   {
     "player_name": "Arraez, Luis",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.046,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.823,
     "Bat Speed": 63.3,
     "Ideal Attack Angle%": 54.2,
     "LA Sweet Spot%": 39.8,
     "Barrel%": 0.6,
     "Whiff%": 8.1,
-    "Swing%": 49.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.8
   },
   {
     "player_name": "Altuve, Jose",
@@ -1751,8 +1635,7 @@
     "LA Sweet Spot%": 33.7,
     "Barrel%": 6.3,
     "Whiff%": 24.0,
-    "Swing%": 46.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.9
   },
   {
     "player_name": "Sheets, Gavin",
@@ -1766,8 +1649,7 @@
     "LA Sweet Spot%": 35.1,
     "Barrel%": 7.8,
     "Whiff%": 20.8,
-    "Swing%": 43.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.4
   },
   {
     "player_name": "Meidroth, Chase",
@@ -1781,8 +1663,7 @@
     "LA Sweet Spot%": 34.3,
     "Barrel%": 4.4,
     "Whiff%": 19.6,
-    "Swing%": 41.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 41.0
   },
   {
     "player_name": "Soler, Jorge",
@@ -1796,8 +1677,7 @@
     "LA Sweet Spot%": 36.5,
     "Barrel%": 11.2,
     "Whiff%": 36.2,
-    "Swing%": 47.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 47.1
   },
   {
     "player_name": "Pages, Andy",
@@ -1811,8 +1691,7 @@
     "LA Sweet Spot%": 35.4,
     "Barrel%": 8.4,
     "Whiff%": 22.8,
-    "Swing%": 48.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.0
   },
   {
     "player_name": "McLain, Matt",
@@ -1826,8 +1705,7 @@
     "LA Sweet Spot%": 37.4,
     "Barrel%": 9.2,
     "Whiff%": 27.4,
-    "Swing%": 42.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.6
   },
   {
     "player_name": "Mitchell, Garrett",
@@ -1841,8 +1719,7 @@
     "LA Sweet Spot%": 34.0,
     "Barrel%": 15.4,
     "Whiff%": 38.0,
-    "Swing%": 43.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.8
   },
   {
     "player_name": "Schanuel, Nolan",
@@ -1856,8 +1733,7 @@
     "LA Sweet Spot%": 35.1,
     "Barrel%": 2.2,
     "Whiff%": 18.0,
-    "Swing%": 45.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 45.6
   },
   {
     "player_name": "Baldwin, Drake",
@@ -1871,8 +1747,7 @@
     "LA Sweet Spot%": 38.2,
     "Barrel%": 15.1,
     "Whiff%": 24.8,
-    "Swing%": 49.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.8
   },
   {
     "player_name": "Giménez, Andrés",
@@ -1886,8 +1761,7 @@
     "LA Sweet Spot%": 30.0,
     "Barrel%": 3.5,
     "Whiff%": 25.1,
-    "Swing%": 56.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 56.8
   },
   {
     "player_name": "Tovar, Ezequiel",
@@ -1901,8 +1775,7 @@
     "LA Sweet Spot%": 37.0,
     "Barrel%": 7.0,
     "Whiff%": 29.6,
-    "Swing%": 62.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 62.8
   },
   {
     "player_name": "Swanson, Dansby",
@@ -1916,8 +1789,7 @@
     "LA Sweet Spot%": 27.8,
     "Barrel%": 8.0,
     "Whiff%": 29.8,
-    "Swing%": 46.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.1
   },
   {
     "player_name": "Rodríguez, Julio",
@@ -1931,8 +1803,7 @@
     "LA Sweet Spot%": 33.1,
     "Barrel%": 9.1,
     "Whiff%": 27.5,
-    "Swing%": 51.8,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.8
   },
   {
     "player_name": "Stott, Bryson",
@@ -1946,8 +1817,7 @@
     "LA Sweet Spot%": 33.7,
     "Barrel%": 7.1,
     "Whiff%": 18.0,
-    "Swing%": 43.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.2
   },
   {
     "player_name": "Lee, Jung Hoo",
@@ -1961,8 +1831,7 @@
     "LA Sweet Spot%": 36.4,
     "Barrel%": 2.4,
     "Whiff%": 12.7,
-    "Swing%": 46.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.4
   },
   {
     "player_name": "Arenado, Nolan",
@@ -1976,8 +1845,7 @@
     "LA Sweet Spot%": 35.5,
     "Barrel%": 6.5,
     "Whiff%": 24.0,
-    "Swing%": 46.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.5
   },
   {
     "player_name": "Herrera, Iván",
@@ -1991,8 +1859,7 @@
     "LA Sweet Spot%": 29.1,
     "Barrel%": 6.0,
     "Whiff%": 20.1,
-    "Swing%": 43.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.1
   },
   {
     "player_name": "Soderstrom, Tyler",
@@ -2006,8 +1873,7 @@
     "LA Sweet Spot%": 31.5,
     "Barrel%": 9.8,
     "Whiff%": 21.4,
-    "Swing%": 46.2,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 46.2
   },
   {
     "player_name": "Schwarber, Kyle",
@@ -2021,8 +1887,7 @@
     "LA Sweet Spot%": 40.2,
     "Barrel%": 19.7,
     "Whiff%": 35.0,
-    "Swing%": 44.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.7
   },
   {
     "player_name": "Devers, Rafael",
@@ -2036,8 +1901,7 @@
     "LA Sweet Spot%": 32.4,
     "Barrel%": 11.6,
     "Whiff%": 29.1,
-    "Swing%": 48.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 48.7
   },
   {
     "player_name": "Trout, Mike",
@@ -2051,8 +1915,7 @@
     "LA Sweet Spot%": 36.7,
     "Barrel%": 20.9,
     "Whiff%": 22.9,
-    "Swing%": 38.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 38.9
   },
   {
     "player_name": "Alvarez, Yordan",
@@ -2066,8 +1929,7 @@
     "LA Sweet Spot%": 43.0,
     "Barrel%": 18.7,
     "Whiff%": 19.6,
-    "Swing%": 43.3,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.3
   },
   {
     "player_name": "Rocchio, Brayan",
@@ -2081,8 +1943,7 @@
     "LA Sweet Spot%": 33.2,
     "Barrel%": 2.7,
     "Whiff%": 23.5,
-    "Swing%": 49.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.9
   },
   {
     "player_name": "Naylor, Josh",
@@ -2096,8 +1957,7 @@
     "LA Sweet Spot%": 33.7,
     "Barrel%": 4.7,
     "Whiff%": 18.7,
-    "Swing%": 52.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 52.6
   },
   {
     "player_name": "Perez, Salvador",
@@ -2111,8 +1971,7 @@
     "LA Sweet Spot%": 33.9,
     "Barrel%": 9.6,
     "Whiff%": 24.9,
-    "Swing%": 57.1,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 57.1
   },
   {
     "player_name": "Abrams, CJ",
@@ -2126,8 +1985,7 @@
     "LA Sweet Spot%": 34.1,
     "Barrel%": 10.1,
     "Whiff%": 28.3,
-    "Swing%": 51.0,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.0
   },
   {
     "player_name": "Steer, Spencer",
@@ -2141,8 +1999,7 @@
     "LA Sweet Spot%": 35.7,
     "Barrel%": 13.2,
     "Whiff%": 25.9,
-    "Swing%": 44.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 44.9
   },
   {
     "player_name": "Castro, Willi",
@@ -2156,8 +2013,7 @@
     "LA Sweet Spot%": 32.8,
     "Barrel%": 6.1,
     "Whiff%": 29.9,
-    "Swing%": 53.7,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 53.7
   },
   {
     "player_name": "Winn, Masyn",
@@ -2171,8 +2027,7 @@
     "LA Sweet Spot%": 33.2,
     "Barrel%": 3.3,
     "Whiff%": 21.3,
-    "Swing%": 43.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 43.6
   },
   {
     "player_name": "Bogaerts, Xander",
@@ -2186,8 +2041,7 @@
     "LA Sweet Spot%": 27.3,
     "Barrel%": 5.8,
     "Whiff%": 23.1,
-    "Swing%": 42.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 42.6
   },
   {
     "player_name": "Crawford, J.P.",
@@ -2201,8 +2055,7 @@
     "LA Sweet Spot%": 36.1,
     "Barrel%": 6.9,
     "Whiff%": 17.9,
-    "Swing%": 38.9,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 38.9
   },
   {
     "player_name": "Burger, Jake",
@@ -2216,8 +2069,7 @@
     "LA Sweet Spot%": 30.5,
     "Barrel%": 10.3,
     "Whiff%": 34.2,
-    "Swing%": 50.4,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 50.4
   },
   {
     "player_name": "Duran, Ezequiel",
@@ -2231,22 +2083,20 @@
     "LA Sweet Spot%": 34.1,
     "Barrel%": 6.0,
     "Whiff%": 27.1,
-    "Swing%": 51.6,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 51.6
   },
   {
     "player_name": "Nimmo, Brandon",
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": -0.056,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.744,
     "Bat Speed": 72.5,
     "Ideal Attack Angle%": 52.1,
     "LA Sweet Spot%": 36.3,
     "Barrel%": 13.1,
     "Whiff%": 22.5,
-    "Swing%": 49.5,
-    "analysis_run": "2026-07-10 20:30:28"
+    "Swing%": 49.5
   }
 ]
