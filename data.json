@@ -1,19 +1,5 @@
 [
   {
-    "player_name": "Polanco, Jorge",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.025,
-    "outlier": false,
-    "OPS": 0.554,
-    "Bat Speed": 69.8,
-    "Ideal Attack Angle%": 49.1,
-    "LA Sweet Spot%": 38.5,
-    "Barrel%": 3.8,
-    "Whiff%": 20.0,
-    "Swing%": 46.3
-  },
-  {
     "player_name": "Bader, Harrison",
     "woba": null,
     "xwoba": null,
@@ -110,20 +96,6 @@
     "Barrel%": 6.8,
     "Whiff%": 25.5,
     "Swing%": 56.0
-  },
-  {
-    "player_name": "Bart, Joey",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.001,
-    "outlier": false,
-    "OPS": 0.684,
-    "Bat Speed": 75.4,
-    "Ideal Attack Angle%": 44.9,
-    "LA Sweet Spot%": 35.0,
-    "Barrel%": 10.0,
-    "Whiff%": 24.9,
-    "Swing%": 48.7
   },
   {
     "player_name": "Feduccia, Hunter",
@@ -294,20 +266,6 @@
     "Swing%": 46.6
   },
   {
-    "player_name": "Song, Sung-Mun",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.007,
-    "outlier": false,
-    "OPS": 0.595,
-    "Bat Speed": 71.9,
-    "Ideal Attack Angle%": 62.1,
-    "LA Sweet Spot%": 31.3,
-    "Barrel%": 6.3,
-    "Whiff%": 22.8,
-    "Swing%": 44.2
-  },
-  {
     "player_name": "Matthews, Brice",
     "woba": null,
     "xwoba": null,
@@ -334,34 +292,6 @@
     "Barrel%": 8.5,
     "Whiff%": 12.6,
     "Swing%": 41.8
-  },
-  {
-    "player_name": "McCutchen, Andrew",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.012,
-    "outlier": false,
-    "OPS": 0.537,
-    "Bat Speed": 70.5,
-    "Ideal Attack Angle%": 53.9,
-    "LA Sweet Spot%": 28.8,
-    "Barrel%": 5.8,
-    "Whiff%": 32.5,
-    "Swing%": 44.9
-  },
-  {
-    "player_name": "Arcia, Orlando",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.045,
-    "outlier": false,
-    "OPS": 0.654,
-    "Bat Speed": 70.6,
-    "Ideal Attack Angle%": 56.0,
-    "LA Sweet Spot%": 30.0,
-    "Barrel%": 2.5,
-    "Whiff%": 22.1,
-    "Swing%": 51.2
   },
   {
     "player_name": "Clement, Ernie",
@@ -644,20 +574,6 @@
     "Swing%": 51.8
   },
   {
-    "player_name": "Short, Zack",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.028,
-    "outlier": false,
-    "OPS": 0.483,
-    "Bat Speed": 70.5,
-    "Ideal Attack Angle%": 60.8,
-    "LA Sweet Spot%": 30.0,
-    "Barrel%": 6.7,
-    "Whiff%": 31.8,
-    "Swing%": 44.9
-  },
-  {
     "player_name": "Marte, Ketel",
     "woba": null,
     "xwoba": null,
@@ -684,34 +600,6 @@
     "Barrel%": 11.0,
     "Whiff%": 20.9,
     "Swing%": 51.5
-  },
-  {
-    "player_name": "Williams, Alika",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.095,
-    "outlier": true,
-    "OPS": 0.748,
-    "Bat Speed": 69.2,
-    "Ideal Attack Angle%": 47.3,
-    "LA Sweet Spot%": 29.1,
-    "Barrel%": 0.0,
-    "Whiff%": 26.4,
-    "Swing%": 52.9
-  },
-  {
-    "player_name": "Marchán, Rafael",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.059,
-    "outlier": false,
-    "OPS": 0.338,
-    "Bat Speed": 66.0,
-    "Ideal Attack Angle%": 53.8,
-    "LA Sweet Spot%": 31.3,
-    "Barrel%": 3.0,
-    "Whiff%": 16.8,
-    "Swing%": 48.3
   },
   {
     "player_name": "Domínguez, Jasson",
@@ -742,20 +630,6 @@
     "Swing%": 45.4
   },
   {
-    "player_name": "Groover, LuJames",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.041,
-    "outlier": false,
-    "OPS": 0.53,
-    "Bat Speed": 71.1,
-    "Ideal Attack Angle%": 51.9,
-    "LA Sweet Spot%": 24.3,
-    "Barrel%": 11.1,
-    "Whiff%": 16.1,
-    "Swing%": 41.8
-  },
-  {
     "player_name": "Vientos, Mark",
     "woba": null,
     "xwoba": null,
@@ -768,20 +642,6 @@
     "Barrel%": 10.1,
     "Whiff%": 31.5,
     "Swing%": 54.5
-  },
-  {
-    "player_name": "Wynns, Austin",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.164,
-    "outlier": true,
-    "OPS": 0.2,
-    "Bat Speed": 71.3,
-    "Ideal Attack Angle%": 46.4,
-    "LA Sweet Spot%": 32.5,
-    "Barrel%": 5.0,
-    "Whiff%": 28.1,
-    "Swing%": 56.4
   },
   {
     "player_name": "Pérez, Wenceel",
@@ -980,20 +840,6 @@
     "Swing%": 43.7
   },
   {
-    "player_name": "Edman, Tommy",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.032,
-    "outlier": false,
-    "OPS": 0.922,
-    "Bat Speed": 70.5,
-    "Ideal Attack Angle%": 50.9,
-    "LA Sweet Spot%": 36.2,
-    "Barrel%": 6.4,
-    "Whiff%": 19.7,
-    "Swing%": 47.8
-  },
-  {
     "player_name": "Duran, Jarren",
     "woba": null,
     "xwoba": null,
@@ -1064,20 +910,6 @@
     "Swing%": 53.5
   },
   {
-    "player_name": "Rogers, Jake",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.023,
-    "outlier": false,
-    "OPS": 0.592,
-    "Bat Speed": 70.6,
-    "Ideal Attack Angle%": 62.1,
-    "LA Sweet Spot%": 30.9,
-    "Barrel%": 7.3,
-    "Whiff%": 29.8,
-    "Swing%": 43.5
-  },
-  {
     "player_name": "Mayo, Coby",
     "woba": null,
     "xwoba": null,
@@ -1118,20 +950,6 @@
     "Barrel%": 7.7,
     "Whiff%": 34.6,
     "Swing%": 40.9
-  },
-  {
-    "player_name": "Frazier, Adam",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.047,
-    "outlier": false,
-    "OPS": 0.63,
-    "Bat Speed": 65.3,
-    "Ideal Attack Angle%": 45.2,
-    "LA Sweet Spot%": 30.9,
-    "Barrel%": 1.8,
-    "Whiff%": 27.0,
-    "Swing%": 53.1
   },
   {
     "player_name": "Sosa, Edmundo",
@@ -1204,20 +1022,6 @@
     "Swing%": 47.5
   },
   {
-    "player_name": "Pereda, Jhonny",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.033,
-    "outlier": false,
-    "OPS": 0.689,
-    "Bat Speed": 70.6,
-    "Ideal Attack Angle%": 46.5,
-    "LA Sweet Spot%": 46.2,
-    "Barrel%": 3.8,
-    "Whiff%": 18.2,
-    "Swing%": 49.5
-  },
-  {
     "player_name": "Hernández, Heriberto",
     "woba": null,
     "xwoba": null,
@@ -1230,34 +1034,6 @@
     "Barrel%": 11.1,
     "Whiff%": 31.6,
     "Swing%": 46.0
-  },
-  {
-    "player_name": "Arias, Gabriel",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.005,
-    "outlier": false,
-    "OPS": 0.675,
-    "Bat Speed": 74.4,
-    "Ideal Attack Angle%": 45.3,
-    "LA Sweet Spot%": 34.0,
-    "Barrel%": 12.8,
-    "Whiff%": 45.2,
-    "Swing%": 49.0
-  },
-  {
-    "player_name": "Morel, Christopher",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.022,
-    "outlier": false,
-    "OPS": 0.425,
-    "Bat Speed": 75.9,
-    "Ideal Attack Angle%": 75.0,
-    "LA Sweet Spot%": 32.5,
-    "Barrel%": 2.5,
-    "Whiff%": 35.6,
-    "Swing%": 52.5
   },
   {
     "player_name": "Outman, James",
@@ -1320,7 +1096,7 @@
     "woba": null,
     "xwoba": null,
     "wOBA_minus_xwOBA": 0.074,
-    "outlier": false,
+    "outlier": true,
     "OPS": 0.924,
     "Bat Speed": 74.4,
     "Ideal Attack Angle%": 53.5,
@@ -1414,62 +1190,6 @@
     "Swing%": 49.5
   },
   {
-    "player_name": "Urías, Ramón",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.033,
-    "outlier": false,
-    "OPS": 0.595,
-    "Bat Speed": 70.2,
-    "Ideal Attack Angle%": 76.5,
-    "LA Sweet Spot%": 30.4,
-    "Barrel%": 10.9,
-    "Whiff%": 23.5,
-    "Swing%": 48.5
-  },
-  {
-    "player_name": "Dezenzo, Zach",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.012,
-    "outlier": false,
-    "OPS": 0.652,
-    "Bat Speed": 74.9,
-    "Ideal Attack Angle%": 40.4,
-    "LA Sweet Spot%": 50.0,
-    "Barrel%": 12.5,
-    "Whiff%": 37.1,
-    "Swing%": 42.9
-  },
-  {
-    "player_name": "Rivero, Sebastián",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.01,
-    "outlier": false,
-    "OPS": 0.569,
-    "Bat Speed": 69.9,
-    "Ideal Attack Angle%": 45.0,
-    "LA Sweet Spot%": 26.2,
-    "Barrel%": 0.0,
-    "Whiff%": 25.7,
-    "Swing%": 58.4
-  },
-  {
-    "player_name": "Lockridge, Brandon",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.048,
-    "outlier": false,
-    "OPS": 0.709,
-    "Bat Speed": 72.9,
-    "Ideal Attack Angle%": 46.5,
-    "LA Sweet Spot%": 19.7,
-    "Barrel%": 1.7,
-    "Whiff%": 27.6,
-    "Swing%": 43.8
-  },
-  {
     "player_name": "O'Hearn, Ryan",
     "woba": null,
     "xwoba": null,
@@ -1512,34 +1232,6 @@
     "Swing%": 55.9
   },
   {
-    "player_name": "Fraley, Jake",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.028,
-    "outlier": false,
-    "OPS": 0.69,
-    "Bat Speed": 71.6,
-    "Ideal Attack Angle%": 47.2,
-    "LA Sweet Spot%": 45.6,
-    "Barrel%": 8.8,
-    "Whiff%": 21.8,
-    "Swing%": 44.9
-  },
-  {
-    "player_name": "Fulford, Braxton",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.048,
-    "outlier": false,
-    "OPS": 0.589,
-    "Bat Speed": 72.0,
-    "Ideal Attack Angle%": 55.1,
-    "LA Sweet Spot%": 25.0,
-    "Barrel%": 9.4,
-    "Whiff%": 37.7,
-    "Swing%": 43.0
-  },
-  {
     "player_name": "DeLauter, Chase",
     "woba": null,
     "xwoba": null,
@@ -1568,34 +1260,6 @@
     "Swing%": 50.9
   },
   {
-    "player_name": "Jones, Spencer",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.027,
-    "outlier": false,
-    "OPS": 0.687,
-    "Bat Speed": 77.8,
-    "Ideal Attack Angle%": 42.7,
-    "LA Sweet Spot%": 33.3,
-    "Barrel%": 5.1,
-    "Whiff%": 41.7,
-    "Swing%": 53.0
-  },
-  {
-    "player_name": "Beck, Jordan",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.026,
-    "outlier": false,
-    "OPS": 0.532,
-    "Bat Speed": 73.5,
-    "Ideal Attack Angle%": 51.6,
-    "LA Sweet Spot%": 29.5,
-    "Barrel%": 3.3,
-    "Whiff%": 29.3,
-    "Swing%": 54.3
-  },
-  {
     "player_name": "Carpenter, Kerry",
     "woba": null,
     "xwoba": null,
@@ -1608,20 +1272,6 @@
     "Barrel%": 11.5,
     "Whiff%": 30.0,
     "Swing%": 49.5
-  },
-  {
-    "player_name": "Jordan, Blaze",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.039,
-    "outlier": false,
-    "OPS": 0.59,
-    "Bat Speed": 73.0,
-    "Ideal Attack Angle%": 41.5,
-    "LA Sweet Spot%": 27.3,
-    "Barrel%": 6.1,
-    "Whiff%": 18.6,
-    "Swing%": 53.9
   },
   {
     "player_name": "Turang, Brice",
@@ -1792,20 +1442,6 @@
     "Swing%": 45.4
   },
   {
-    "player_name": "Cole, Zach",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.055,
-    "outlier": false,
-    "OPS": 0.542,
-    "Bat Speed": 76.3,
-    "Ideal Attack Angle%": 49.4,
-    "LA Sweet Spot%": 23.3,
-    "Barrel%": 16.7,
-    "Whiff%": 43.3,
-    "Swing%": 44.3
-  },
-  {
     "player_name": "Scott II, Victor",
     "woba": null,
     "xwoba": null,
@@ -1974,20 +1610,6 @@
     "Swing%": 50.6
   },
   {
-    "player_name": "Madrigal, Nick",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.023,
-    "outlier": false,
-    "OPS": 0.68,
-    "Bat Speed": 65.5,
-    "Ideal Attack Angle%": 40.5,
-    "LA Sweet Spot%": 29.3,
-    "Barrel%": 0.0,
-    "Whiff%": 8.7,
-    "Swing%": 50.0
-  },
-  {
     "player_name": "Buxton, Byron",
     "woba": null,
     "xwoba": null,
@@ -2044,20 +1666,6 @@
     "Swing%": 54.8
   },
   {
-    "player_name": "Allen, Nick",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.044,
-    "outlier": false,
-    "OPS": 0.609,
-    "Bat Speed": 68.8,
-    "Ideal Attack Angle%": 57.9,
-    "LA Sweet Spot%": 20.6,
-    "Barrel%": 1.5,
-    "Whiff%": 28.7,
-    "Swing%": 46.1
-  },
-  {
     "player_name": "Rosario, Amed",
     "woba": null,
     "xwoba": null,
@@ -2070,20 +1678,6 @@
     "Barrel%": 11.4,
     "Whiff%": 26.5,
     "Swing%": 54.1
-  },
-  {
-    "player_name": "Thomas, Colby",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.008,
-    "outlier": false,
-    "OPS": 0.623,
-    "Bat Speed": 75.4,
-    "Ideal Attack Angle%": 44.0,
-    "LA Sweet Spot%": 30.3,
-    "Barrel%": 10.6,
-    "Whiff%": 32.0,
-    "Swing%": 60.2
   },
   {
     "player_name": "Collins, Isaac",
@@ -2142,20 +1736,6 @@
     "Swing%": 45.9
   },
   {
-    "player_name": "Pereira, Everson",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.011,
-    "outlier": false,
-    "OPS": 0.719,
-    "Bat Speed": 74.6,
-    "Ideal Attack Angle%": 67.9,
-    "LA Sweet Spot%": 38.3,
-    "Barrel%": 10.6,
-    "Whiff%": 37.7,
-    "Swing%": 58.6
-  },
-  {
     "player_name": "Loperfido, Joey",
     "woba": null,
     "xwoba": null,
@@ -2168,20 +1748,6 @@
     "Barrel%": 6.8,
     "Whiff%": 31.0,
     "Swing%": 48.8
-  },
-  {
-    "player_name": "Torres, Bryan",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.024,
-    "outlier": false,
-    "OPS": 0.684,
-    "Bat Speed": 66.6,
-    "Ideal Attack Angle%": 61.2,
-    "LA Sweet Spot%": 38.8,
-    "Barrel%": 8.5,
-    "Whiff%": 21.1,
-    "Swing%": 47.3
   },
   {
     "player_name": "Turner, Trea",
@@ -2408,20 +1974,6 @@
     "Swing%": 40.7
   },
   {
-    "player_name": "McCann, James",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.002,
-    "outlier": false,
-    "OPS": 0.48,
-    "Bat Speed": 72.8,
-    "Ideal Attack Angle%": 44.5,
-    "LA Sweet Spot%": 23.4,
-    "Barrel%": 6.4,
-    "Whiff%": 30.1,
-    "Swing%": 53.2
-  },
-  {
     "player_name": "Pederson, Joc",
     "woba": null,
     "xwoba": null,
@@ -2434,20 +1986,6 @@
     "Barrel%": 11.0,
     "Whiff%": 30.0,
     "Swing%": 45.5
-  },
-  {
-    "player_name": "Pratt, Cooper",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.071,
-    "outlier": false,
-    "OPS": 0.688,
-    "Bat Speed": 70.4,
-    "Ideal Attack Angle%": 38.1,
-    "LA Sweet Spot%": 38.2,
-    "Barrel%": 5.7,
-    "Whiff%": 26.2,
-    "Swing%": 42.6
   },
   {
     "player_name": "Moreno, Gabriel",
@@ -2520,34 +2058,6 @@
     "Swing%": 42.1
   },
   {
-    "player_name": "Báez, Javier",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.0,
-    "outlier": false,
-    "OPS": 0.677,
-    "Bat Speed": 72.5,
-    "Ideal Attack Angle%": 56.0,
-    "LA Sweet Spot%": 46.0,
-    "Barrel%": 3.2,
-    "Whiff%": 27.5,
-    "Swing%": 59.9
-  },
-  {
-    "player_name": "Shewmake, Braden",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.003,
-    "outlier": false,
-    "OPS": 0.695,
-    "Bat Speed": 69.6,
-    "Ideal Attack Angle%": 69.6,
-    "LA Sweet Spot%": 27.9,
-    "Barrel%": 7.5,
-    "Whiff%": 21.9,
-    "Swing%": 61.9
-  },
-  {
     "player_name": "Acuña, Luisangel",
     "woba": null,
     "xwoba": null,
@@ -2574,34 +2084,6 @@
     "Barrel%": 4.9,
     "Whiff%": 14.2,
     "Swing%": 39.2
-  },
-  {
-    "player_name": "Robles, Victor",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.026,
-    "outlier": false,
-    "OPS": 0.518,
-    "Bat Speed": 68.4,
-    "Ideal Attack Angle%": 58.5,
-    "LA Sweet Spot%": 31.1,
-    "Barrel%": 2.7,
-    "Whiff%": 23.9,
-    "Swing%": 53.9
-  },
-  {
-    "player_name": "Jackson, Alex",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.106,
-    "outlier": true,
-    "OPS": 0.728,
-    "Bat Speed": 73.0,
-    "Ideal Attack Angle%": 50.0,
-    "LA Sweet Spot%": 21.1,
-    "Barrel%": 2.6,
-    "Whiff%": 26.1,
-    "Swing%": 58.3
   },
   {
     "player_name": "Heineman, Tyler",
@@ -2646,48 +2128,6 @@
     "Swing%": 41.4
   },
   {
-    "player_name": "Rincones Jr., Gabriel",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.029,
-    "outlier": false,
-    "OPS": 0.594,
-    "Bat Speed": 76.5,
-    "Ideal Attack Angle%": 39.8,
-    "LA Sweet Spot%": 22.7,
-    "Barrel%": 9.8,
-    "Whiff%": 29.2,
-    "Swing%": 56.1
-  },
-  {
-    "player_name": "India, Jonathan",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.007,
-    "outlier": false,
-    "OPS": 0.623,
-    "Bat Speed": 71.0,
-    "Ideal Attack Angle%": 56.1,
-    "LA Sweet Spot%": 28.6,
-    "Barrel%": 5.7,
-    "Whiff%": 22.6,
-    "Swing%": 39.2
-  },
-  {
-    "player_name": "Callihan, Tyler",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.054,
-    "outlier": false,
-    "OPS": 0.824,
-    "Bat Speed": 70.0,
-    "Ideal Attack Angle%": 40.1,
-    "LA Sweet Spot%": 46.8,
-    "Barrel%": 8.5,
-    "Whiff%": 31.7,
-    "Swing%": 55.0
-  },
-  {
     "player_name": "García Jr., Luis",
     "woba": null,
     "xwoba": null,
@@ -2714,20 +2154,6 @@
     "Barrel%": 1.5,
     "Whiff%": 11.5,
     "Swing%": 51.1
-  },
-  {
-    "player_name": "Trevino, Jose",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.021,
-    "outlier": false,
-    "OPS": 0.606,
-    "Bat Speed": 69.2,
-    "Ideal Attack Angle%": 68.8,
-    "LA Sweet Spot%": 23.2,
-    "Barrel%": 1.9,
-    "Whiff%": 22.7,
-    "Swing%": 52.6
   },
   {
     "player_name": "Cowser, Colton",
@@ -2784,20 +2210,6 @@
     "Barrel%": 7.3,
     "Whiff%": 30.7,
     "Swing%": 42.7
-  },
-  {
-    "player_name": "Tolbert, Tyler",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.083,
-    "outlier": true,
-    "OPS": 0.907,
-    "Bat Speed": 69.2,
-    "Ideal Attack Angle%": 37.4,
-    "LA Sweet Spot%": 33.3,
-    "Barrel%": 4.4,
-    "Whiff%": 24.6,
-    "Swing%": 55.9
   },
   {
     "player_name": "Hamilton, David",
@@ -2954,20 +2366,6 @@
     "Swing%": 47.1
   },
   {
-    "player_name": "Arroyo, Edwin",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.045,
-    "outlier": false,
-    "OPS": 0.579,
-    "Bat Speed": 69.2,
-    "Ideal Attack Angle%": 45.1,
-    "LA Sweet Spot%": 43.5,
-    "Barrel%": 0.0,
-    "Whiff%": 24.4,
-    "Swing%": 62.2
-  },
-  {
     "player_name": "O'Hoppe, Logan",
     "woba": null,
     "xwoba": null,
@@ -3092,34 +2490,6 @@
     "Barrel%": 10.2,
     "Whiff%": 28.4,
     "Swing%": 51.8
-  },
-  {
-    "player_name": "Stanton, Giancarlo",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.01,
-    "outlier": false,
-    "OPS": 0.724,
-    "Bat Speed": 79.3,
-    "Ideal Attack Angle%": 72.3,
-    "LA Sweet Spot%": 37.7,
-    "Barrel%": 18.0,
-    "Whiff%": 38.7,
-    "Swing%": 45.1
-  },
-  {
-    "player_name": "Walton, Donovan",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.06,
-    "outlier": false,
-    "OPS": 0.859,
-    "Bat Speed": 67.4,
-    "Ideal Attack Angle%": 57.2,
-    "LA Sweet Spot%": 43.2,
-    "Barrel%": 5.4,
-    "Whiff%": 24.0,
-    "Swing%": 52.3
   },
   {
     "player_name": "Vaughn, Andrew",
@@ -3374,34 +2744,6 @@
     "Swing%": 34.7
   },
   {
-    "player_name": "Seigler, Anthony",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.02,
-    "outlier": false,
-    "OPS": 0.81,
-    "Bat Speed": 67.3,
-    "Ideal Attack Angle%": 60.0,
-    "LA Sweet Spot%": 43.8,
-    "Barrel%": 4.2,
-    "Whiff%": 23.5,
-    "Swing%": 45.8
-  },
-  {
-    "player_name": "Teel, Kyle",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.03,
-    "outlier": false,
-    "OPS": 0.597,
-    "Bat Speed": 72.7,
-    "Ideal Attack Angle%": 43.2,
-    "LA Sweet Spot%": 42.9,
-    "Barrel%": 14.3,
-    "Whiff%": 38.5,
-    "Swing%": 47.1
-  },
-  {
     "player_name": "Benson, Will",
     "woba": null,
     "xwoba": null,
@@ -3414,20 +2756,6 @@
     "Barrel%": 12.7,
     "Whiff%": 36.1,
     "Swing%": 43.4
-  },
-  {
-    "player_name": "Espinal, Santiago",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.009,
-    "outlier": false,
-    "OPS": 0.651,
-    "Bat Speed": 68.3,
-    "Ideal Attack Angle%": 62.8,
-    "LA Sweet Spot%": 45.1,
-    "Barrel%": 2.0,
-    "Whiff%": 18.8,
-    "Swing%": 50.0
   },
   {
     "player_name": "Torrens, Luis",
@@ -3470,20 +2798,6 @@
     "Barrel%": 3.6,
     "Whiff%": 19.4,
     "Swing%": 43.8
-  },
-  {
-    "player_name": "Kelenic, Jarred",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.07,
-    "outlier": false,
-    "OPS": 0.599,
-    "Bat Speed": 73.5,
-    "Ideal Attack Angle%": 56.6,
-    "LA Sweet Spot%": 38.9,
-    "Barrel%": 22.2,
-    "Whiff%": 39.2,
-    "Swing%": 46.0
   },
   {
     "player_name": "Higashioka, Kyle",
@@ -3568,20 +2882,6 @@
     "Barrel%": 8.3,
     "Whiff%": 34.2,
     "Swing%": 49.2
-  },
-  {
-    "player_name": "Robert Jr., Luis",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.023,
-    "outlier": false,
-    "OPS": 0.656,
-    "Bat Speed": 76.0,
-    "Ideal Attack Angle%": 51.3,
-    "LA Sweet Spot%": 20.6,
-    "Barrel%": 2.9,
-    "Whiff%": 25.6,
-    "Swing%": 46.6
   },
   {
     "player_name": "Lukes, Nathan",
@@ -3710,20 +3010,6 @@
     "Swing%": 45.5
   },
   {
-    "player_name": "Escarra, J.C.",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.03,
-    "outlier": false,
-    "OPS": 0.51,
-    "Bat Speed": 69.7,
-    "Ideal Attack Angle%": 60.4,
-    "LA Sweet Spot%": 29.4,
-    "Barrel%": 4.5,
-    "Whiff%": 28.1,
-    "Swing%": 45.5
-  },
-  {
     "player_name": "Jansen, Danny",
     "woba": null,
     "xwoba": null,
@@ -3780,34 +3066,6 @@
     "Swing%": 48.4
   },
   {
-    "player_name": "Smith, Pavin",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.049,
-    "outlier": false,
-    "OPS": 0.428,
-    "Bat Speed": 70.8,
-    "Ideal Attack Angle%": 58.3,
-    "LA Sweet Spot%": 23.0,
-    "Barrel%": 3.3,
-    "Whiff%": 17.2,
-    "Swing%": 43.7
-  },
-  {
-    "player_name": "Thompson, Sterlin",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.013,
-    "outlier": false,
-    "OPS": 0.689,
-    "Bat Speed": 75.4,
-    "Ideal Attack Angle%": 39.5,
-    "LA Sweet Spot%": 31.3,
-    "Barrel%": 6.3,
-    "Whiff%": 30.1,
-    "Swing%": 50.0
-  },
-  {
     "player_name": "Lopez, Nicky",
     "woba": null,
     "xwoba": null,
@@ -3850,20 +3108,6 @@
     "Swing%": 55.0
   },
   {
-    "player_name": "Gonzalez, Jacob",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.001,
-    "outlier": false,
-    "OPS": 0.683,
-    "Bat Speed": 71.5,
-    "Ideal Attack Angle%": 53.9,
-    "LA Sweet Spot%": 29.2,
-    "Barrel%": 1.6,
-    "Whiff%": 21.0,
-    "Swing%": 53.4
-  },
-  {
     "player_name": "Witt Jr., Bobby",
     "woba": null,
     "xwoba": null,
@@ -3876,20 +3120,6 @@
     "Barrel%": 12.5,
     "Whiff%": 24.2,
     "Swing%": 47.8
-  },
-  {
-    "player_name": "Valdez, Esmerlyn",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.057,
-    "outlier": false,
-    "OPS": 0.993,
-    "Bat Speed": 75.0,
-    "Ideal Attack Angle%": 51.6,
-    "LA Sweet Spot%": 40.0,
-    "Barrel%": 28.0,
-    "Whiff%": 36.1,
-    "Swing%": 45.3
   },
   {
     "player_name": "Johnston, Troy",
@@ -3948,20 +3178,6 @@
     "Swing%": 47.4
   },
   {
-    "player_name": "Halpin, Petey",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.05,
-    "outlier": false,
-    "OPS": 0.404,
-    "Bat Speed": 69.7,
-    "Ideal Attack Angle%": 52.1,
-    "LA Sweet Spot%": 40.0,
-    "Barrel%": 7.5,
-    "Whiff%": 28.3,
-    "Swing%": 56.2
-  },
-  {
     "player_name": "Chapman, Matt",
     "woba": null,
     "xwoba": null,
@@ -4004,20 +3220,6 @@
     "Swing%": 48.3
   },
   {
-    "player_name": "Haase, Eric",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.008,
-    "outlier": false,
-    "OPS": 0.6,
-    "Bat Speed": 71.6,
-    "Ideal Attack Angle%": 61.5,
-    "LA Sweet Spot%": 30.6,
-    "Barrel%": 16.3,
-    "Whiff%": 38.1,
-    "Swing%": 48.7
-  },
-  {
     "player_name": "Busch, Michael",
     "woba": null,
     "xwoba": null,
@@ -4030,20 +3232,6 @@
     "Barrel%": 10.5,
     "Whiff%": 25.4,
     "Swing%": 41.8
-  },
-  {
-    "player_name": "Velázquez, Nelson",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.04,
-    "outlier": false,
-    "OPS": 0.86,
-    "Bat Speed": 75.0,
-    "Ideal Attack Angle%": 62.7,
-    "LA Sweet Spot%": 40.5,
-    "Barrel%": 11.9,
-    "Whiff%": 34.1,
-    "Swing%": 50.4
   },
   {
     "player_name": "Caglianone, Jac",
@@ -4144,34 +3332,6 @@
     "Swing%": 45.3
   },
   {
-    "player_name": "Díaz, Elias",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.029,
-    "outlier": false,
-    "OPS": 0.775,
-    "Bat Speed": 75.2,
-    "Ideal Attack Angle%": 59.1,
-    "LA Sweet Spot%": 34.8,
-    "Barrel%": 7.2,
-    "Whiff%": 25.0,
-    "Swing%": 59.0
-  },
-  {
-    "player_name": "Bericoto, Victor",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.076,
-    "outlier": true,
-    "OPS": 0.857,
-    "Bat Speed": 74.3,
-    "Ideal Attack Angle%": 50.0,
-    "LA Sweet Spot%": 30.2,
-    "Barrel%": 14.0,
-    "Whiff%": 27.1,
-    "Swing%": 56.3
-  },
-  {
     "player_name": "Marte, Noelvi",
     "woba": null,
     "xwoba": null,
@@ -4184,20 +3344,6 @@
     "Barrel%": 7.1,
     "Whiff%": 25.5,
     "Swing%": 49.4
-  },
-  {
-    "player_name": "Siri, Jose",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.017,
-    "outlier": false,
-    "OPS": 0.774,
-    "Bat Speed": 73.4,
-    "Ideal Attack Angle%": 53.5,
-    "LA Sweet Spot%": 30.6,
-    "Barrel%": 13.1,
-    "Whiff%": 34.0,
-    "Swing%": 55.3
   },
   {
     "player_name": "Albies, Ozzie",
@@ -4240,20 +3386,6 @@
     "Barrel%": 4.3,
     "Whiff%": 16.3,
     "Swing%": 40.4
-  },
-  {
-    "player_name": "Ramírez, Pedro",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.012,
-    "outlier": false,
-    "OPS": 0.676,
-    "Bat Speed": 72.6,
-    "Ideal Attack Angle%": 38.9,
-    "LA Sweet Spot%": 34.7,
-    "Barrel%": 4.1,
-    "Whiff%": 18.4,
-    "Swing%": 50.7
   },
   {
     "player_name": "Holliday, Jackson",
@@ -4338,34 +3470,6 @@
     "Barrel%": 2.9,
     "Whiff%": 23.3,
     "Swing%": 46.8
-  },
-  {
-    "player_name": "Mesa Jr., Victor",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.008,
-    "outlier": false,
-    "OPS": 0.661,
-    "Bat Speed": 74.0,
-    "Ideal Attack Angle%": 72.0,
-    "LA Sweet Spot%": 34.4,
-    "Barrel%": 8.2,
-    "Whiff%": 25.4,
-    "Swing%": 51.0
-  },
-  {
-    "player_name": "Clarke, Denzel",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.003,
-    "outlier": false,
-    "OPS": 0.417,
-    "Bat Speed": 77.2,
-    "Ideal Attack Angle%": 46.6,
-    "LA Sweet Spot%": 15.6,
-    "Barrel%": 3.2,
-    "Whiff%": 35.8,
-    "Swing%": 45.0
   },
   {
     "player_name": "Wells, Austin",
@@ -4550,20 +3654,6 @@
     "Swing%": 42.9
   },
   {
-    "player_name": "Crooks, Jimmy",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.074,
-    "outlier": false,
-    "OPS": 0.508,
-    "Bat Speed": 71.2,
-    "Ideal Attack Angle%": 40.4,
-    "LA Sweet Spot%": 41.7,
-    "Barrel%": 5.7,
-    "Whiff%": 33.9,
-    "Swing%": 46.1
-  },
-  {
     "player_name": "O'Neill, Tyler",
     "woba": null,
     "xwoba": null,
@@ -4704,20 +3794,6 @@
     "Swing%": 42.0
   },
   {
-    "player_name": "Chaparro, Andrés",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.058,
-    "outlier": false,
-    "OPS": 0.581,
-    "Bat Speed": 74.9,
-    "Ideal Attack Angle%": 56.3,
-    "LA Sweet Spot%": 33.3,
-    "Barrel%": 12.1,
-    "Whiff%": 32.4,
-    "Swing%": 42.7
-  },
-  {
     "player_name": "Norby, Connor",
     "woba": null,
     "xwoba": null,
@@ -4774,20 +3850,6 @@
     "Swing%": 51.9
   },
   {
-    "player_name": "Watson, Kahlil",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.0,
-    "outlier": false,
-    "OPS": 0.558,
-    "Bat Speed": 73.0,
-    "Ideal Attack Angle%": 44.8,
-    "LA Sweet Spot%": 32.5,
-    "Barrel%": 10.0,
-    "Whiff%": 34.1,
-    "Swing%": 52.6
-  },
-  {
     "player_name": "Heim, Jonah",
     "woba": null,
     "xwoba": null,
@@ -4814,20 +3876,6 @@
     "Barrel%": 6.7,
     "Whiff%": 20.6,
     "Swing%": 40.9
-  },
-  {
-    "player_name": "Kirk, Alejandro",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.016,
-    "outlier": false,
-    "OPS": 0.54,
-    "Bat Speed": 70.6,
-    "Ideal Attack Angle%": 56.1,
-    "LA Sweet Spot%": 27.1,
-    "Barrel%": 2.9,
-    "Whiff%": 20.4,
-    "Swing%": 45.2
   },
   {
     "player_name": "Hoskins, Rhys",
@@ -4912,20 +3960,6 @@
     "Barrel%": 7.8,
     "Whiff%": 23.6,
     "Swing%": 47.9
-  },
-  {
-    "player_name": "Slater, Austin",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.036,
-    "outlier": false,
-    "OPS": 0.588,
-    "Bat Speed": 71.1,
-    "Ideal Attack Angle%": 57.6,
-    "LA Sweet Spot%": 26.7,
-    "Barrel%": 2.3,
-    "Whiff%": 27.9,
-    "Swing%": 46.6
   },
   {
     "player_name": "Andujar, Miguel",
@@ -5096,20 +4130,6 @@
     "Swing%": 43.3
   },
   {
-    "player_name": "Wilson, Weston",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.007,
-    "outlier": false,
-    "OPS": 0.583,
-    "Bat Speed": 72.5,
-    "Ideal Attack Angle%": 54.9,
-    "LA Sweet Spot%": 32.4,
-    "Barrel%": 2.8,
-    "Whiff%": 32.8,
-    "Swing%": 48.0
-  },
-  {
     "player_name": "Meidroth, Chase",
     "woba": null,
     "xwoba": null,
@@ -5166,20 +4186,6 @@
     "Swing%": 56.1
   },
   {
-    "player_name": "Pauley, Graham",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.019,
-    "outlier": false,
-    "OPS": 0.516,
-    "Bat Speed": 71.8,
-    "Ideal Attack Angle%": 55.7,
-    "LA Sweet Spot%": 33.3,
-    "Barrel%": 4.3,
-    "Whiff%": 22.6,
-    "Swing%": 44.1
-  },
-  {
     "player_name": "Soler, Jorge",
     "woba": null,
     "xwoba": null,
@@ -5206,20 +4212,6 @@
     "Barrel%": 8.4,
     "Whiff%": 22.8,
     "Swing%": 48.0
-  },
-  {
-    "player_name": "Saggese, Thomas",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.039,
-    "outlier": false,
-    "OPS": 0.52,
-    "Bat Speed": 72.2,
-    "Ideal Attack Angle%": 44.3,
-    "LA Sweet Spot%": 34.0,
-    "Barrel%": 10.0,
-    "Whiff%": 33.0,
-    "Swing%": 54.0
   },
   {
     "player_name": "Cronenworth, Jake",
@@ -5320,20 +4312,6 @@
     "Swing%": 41.5
   },
   {
-    "player_name": "Durán, Rodolfo",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.019,
-    "outlier": false,
-    "OPS": 0.517,
-    "Bat Speed": 72.9,
-    "Ideal Attack Angle%": 61.4,
-    "LA Sweet Spot%": 20.4,
-    "Barrel%": 9.3,
-    "Whiff%": 25.9,
-    "Swing%": 44.1
-  },
-  {
     "player_name": "Tovar, Ezequiel",
     "woba": null,
     "xwoba": null,
@@ -5360,20 +4338,6 @@
     "Barrel%": 10.1,
     "Whiff%": 31.7,
     "Swing%": 44.8
-  },
-  {
-    "player_name": "Schuemann, Max",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.046,
-    "outlier": false,
-    "OPS": 0.866,
-    "Bat Speed": 70.5,
-    "Ideal Attack Angle%": 52.8,
-    "LA Sweet Spot%": 38.2,
-    "Barrel%": 14.7,
-    "Whiff%": 29.6,
-    "Swing%": 40.0
   },
   {
     "player_name": "Tena, José",
@@ -5614,20 +4578,6 @@
     "Swing%": 47.2
   },
   {
-    "player_name": "Kim, Ha-Seong",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.081,
-    "outlier": true,
-    "OPS": 0.239,
-    "Bat Speed": 71.9,
-    "Ideal Attack Angle%": 56.9,
-    "LA Sweet Spot%": 19.6,
-    "Barrel%": 4.1,
-    "Whiff%": 21.1,
-    "Swing%": 42.1
-  },
-  {
     "player_name": "Soderstrom, Tyler",
     "woba": null,
     "xwoba": null,
@@ -5668,20 +4618,6 @@
     "Barrel%": 19.7,
     "Whiff%": 35.0,
     "Swing%": 44.7
-  },
-  {
-    "player_name": "Teodosio, Bryce",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.032,
-    "outlier": false,
-    "OPS": 0.515,
-    "Bat Speed": 70.1,
-    "Ideal Attack Angle%": 44.3,
-    "LA Sweet Spot%": 13.3,
-    "Barrel%": 6.7,
-    "Whiff%": 39.2,
-    "Swing%": 54.8
   },
   {
     "player_name": "Wallner, Matt",
@@ -5908,20 +4844,6 @@
     "Swing%": 49.7
   },
   {
-    "player_name": "Mauricio, Ronny",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.014,
-    "outlier": false,
-    "OPS": 0.44,
-    "Bat Speed": 74.8,
-    "Ideal Attack Angle%": 56.7,
-    "LA Sweet Spot%": 28.1,
-    "Barrel%": 9.4,
-    "Whiff%": 32.1,
-    "Swing%": 63.4
-  },
-  {
     "player_name": "Triolo, Jared",
     "woba": null,
     "xwoba": null,
@@ -6034,20 +4956,6 @@
     "Swing%": 57.1
   },
   {
-    "player_name": "Naylor, Bo",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.091,
-    "outlier": true,
-    "OPS": 0.438,
-    "Bat Speed": 71.8,
-    "Ideal Attack Angle%": 52.3,
-    "LA Sweet Spot%": 30.2,
-    "Barrel%": 11.1,
-    "Whiff%": 14.8,
-    "Swing%": 45.2
-  },
-  {
     "player_name": "Murakami, Munetaka",
     "woba": null,
     "xwoba": null,
@@ -6118,62 +5026,6 @@
     "Swing%": 44.9
   },
   {
-    "player_name": "Harris, Dustin",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.042,
-    "outlier": false,
-    "OPS": 0.635,
-    "Bat Speed": 66.7,
-    "Ideal Attack Angle%": 43.5,
-    "LA Sweet Spot%": 44.7,
-    "Barrel%": 0.0,
-    "Whiff%": 13.8,
-    "Swing%": 42.3
-  },
-  {
-    "player_name": "Conine, Griffin",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.006,
-    "outlier": false,
-    "OPS": 0.855,
-    "Bat Speed": 73.8,
-    "Ideal Attack Angle%": 48.9,
-    "LA Sweet Spot%": 37.0,
-    "Barrel%": 13.0,
-    "Whiff%": 40.0,
-    "Swing%": 48.9
-  },
-  {
-    "player_name": "Tawa, Tim",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.025,
-    "outlier": false,
-    "OPS": 0.495,
-    "Bat Speed": 74.2,
-    "Ideal Attack Angle%": 58.8,
-    "LA Sweet Spot%": 23.2,
-    "Barrel%": 1.9,
-    "Whiff%": 26.3,
-    "Swing%": 49.3
-  },
-  {
-    "player_name": "Campusano, Luis",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.082,
-    "outlier": true,
-    "OPS": 1.022,
-    "Bat Speed": 72.6,
-    "Ideal Attack Angle%": 69.6,
-    "LA Sweet Spot%": 36.2,
-    "Barrel%": 10.6,
-    "Whiff%": 27.0,
-    "Swing%": 47.6
-  },
-  {
     "player_name": "Griffin, Konnor",
     "woba": null,
     "xwoba": null,
@@ -6200,20 +5052,6 @@
     "Barrel%": 4.5,
     "Whiff%": 23.6,
     "Swing%": 52.3
-  },
-  {
-    "player_name": "Wiemer, Joey",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.082,
-    "outlier": true,
-    "OPS": 0.912,
-    "Bat Speed": 71.5,
-    "Ideal Attack Angle%": 42.2,
-    "LA Sweet Spot%": 29.3,
-    "Barrel%": 10.0,
-    "Whiff%": 31.9,
-    "Swing%": 40.3
   },
   {
     "player_name": "Carrigg, Cole",
@@ -6286,20 +5124,6 @@
     "Swing%": 53.4
   },
   {
-    "player_name": "Brito, Juan",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.023,
-    "outlier": false,
-    "OPS": 0.505,
-    "Bat Speed": 68.6,
-    "Ideal Attack Angle%": 58.8,
-    "LA Sweet Spot%": 29.4,
-    "Barrel%": 2.9,
-    "Whiff%": 32.5,
-    "Swing%": 48.5
-  },
-  {
     "player_name": "Bogaerts, Xander",
     "woba": null,
     "xwoba": null,
@@ -6312,20 +5136,6 @@
     "Barrel%": 5.8,
     "Whiff%": 23.1,
     "Swing%": 42.6
-  },
-  {
-    "player_name": "Yorke, Nick",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": -0.05,
-    "outlier": false,
-    "OPS": 0.555,
-    "Bat Speed": 72.4,
-    "Ideal Attack Angle%": 30.7,
-    "LA Sweet Spot%": 26.7,
-    "Barrel%": 5.0,
-    "Whiff%": 18.7,
-    "Swing%": 47.5
   },
   {
     "player_name": "Crawford, J.P.",
@@ -6368,20 +5178,6 @@
     "Barrel%": 6.5,
     "Whiff%": 21.3,
     "Swing%": 45.9
-  },
-  {
-    "player_name": "Ward, Ryan",
-    "woba": null,
-    "xwoba": null,
-    "wOBA_minus_xwOBA": 0.002,
-    "outlier": false,
-    "OPS": 0.738,
-    "Bat Speed": 71.6,
-    "Ideal Attack Angle%": 61.3,
-    "LA Sweet Spot%": 36.8,
-    "Barrel%": 10.8,
-    "Whiff%": 27.6,
-    "Swing%": 53.2
   },
   {
     "player_name": "Rengifo, Luis",
